@@ -11,3 +11,13 @@ Here's a clickable link:[My favorite movie rating website](https://www.rottentom
 Images look like links except with an exclamation directly in front
 
 ![Rotten Tomatoes Image](https://github.com/katehuntsman/cintel-01-pages/blob/main/rottentomatoes_logo_40.336d6fe66ff.png)
+
+## Reminders
+
+Use a dash space for unordered lists
+
+- Spaces matter
+
+- Spelling matters
+
+- Capitalization matters
