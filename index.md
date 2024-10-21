@@ -12,4 +12,7 @@ Images look like links except with an exclamation directly in front
 
 ![Rotten Tomatoes Image](https://github.com/katehuntsman/cintel-01-pages/blob/main/rottentomatoes_logo_40.336d6fe66ff.png)
 
-## Reminders
+## Leap Day Theme
+
+This is my first page using the Leap Day theme! Enjoy exploring.
+
