@@ -8,6 +8,8 @@ Here's a clickable link:[My favorite movie rating website](https://www.rottentom
 
 ## Images
 
+Images look like links except with an exclamation directly in front
+
 ![Rotten Tomatoes Image]/Users/katehuntsman/Desktop/rottentomatoes_logo_40.336d6fe66ff.png
 
 ## Reminders
